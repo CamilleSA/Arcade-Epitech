@@ -1,4 +1,6 @@
-benoit2.palignac@epitech.eu
+[![Menu](https://github.com/CamilleSA/Arcade-Epitech/blob/master/assets/ArcadeMenu.png "Menu")]
+[![Nibbler](https://github.com/CamilleSA/Arcade-Epitech/blob/master/assets/NibblerArcade.png "Nibbler")]
+[![Pacman](https://github.com/CamilleSA/Arcade-Epitech/blob/master/assets/Pacman.png"Pacman")](https://some-url.dev/)
 
 Membres du groupes : Zoé Lenglemetz, Camille Sayous, Lal Joncoux-Aydin
 Libs graphiques utilisées : Ncurse, Sfml, Opengl
